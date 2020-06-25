@@ -2,11 +2,9 @@
 
 ![alt tag](https://media.sproutsocial.com/uploads/2019/08/twitter-stats.svg)
 
-The Nintendo Switch is a video game console developed by Nintendo, released worldwide in most regions on March 3, 2017. In this case competition, I was tasked to forecast the US sales of Nintendo Switch in the first week in May.
+This data originally came from Crowdflower's Data for Everyone library. This is one of the side projects I've done. I want to know what makes the passengers satisfied or unsatisfied with their flight. This is a simple sentiment analysis using natural language processing techniques.
 
-The following code is run through Jupyter Notebook. I work with Scikit-Learn, the machine learning framework, to build different regression models to predict the sales amount of Nintendo Switch and evaluate them with cross validation.
-
-## Algorithms Used
+## Word Cloud
 Random Forest
 
 LightGBM
