@@ -6,4 +6,4 @@ This data originally came from Crowdflower's Data for Everyone library. This is 
 
 ## Word Cloud
 
-![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/tree/master/images/download.png)
+![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/download.png)
