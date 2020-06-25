@@ -1,6 +1,6 @@
 ## Twitter Sentiment Analysis
 
-![alt tag](https://www.google.com/search?q=twitter&sxsrf=ALeKk02X5eQPCFtehvkY1Lsgk7t5NjEakQ:1593127108831&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjYnJ37jJ7qAhUrl3IEHeiLDfkQ_AUoAXoECBYQAw&biw=1535&bih=722#imgrc=PJ1pHrTW8N0QiM)
+![alt tag](https://media.sproutsocial.com/uploads/2019/08/twitter-stats.svg)
 
 The Nintendo Switch is a video game console developed by Nintendo, released worldwide in most regions on March 3, 2017. In this case competition, I was tasked to forecast the US sales of Nintendo Switch in the first week in May.
 
